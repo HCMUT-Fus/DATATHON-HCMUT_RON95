@@ -1,4 +1,3 @@
-#%%
 import pandas as pd
 sub_ml = pd.read_csv('submissions/submission_ml.csv')
 sub_dl = pd.read_csv('submissions/submission_dl.csv')
